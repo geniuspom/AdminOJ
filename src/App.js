@@ -10,4 +10,4 @@ return React.createElement('h1', null, 'Greetings, ' + this.props.name + '!');
   }
 }
 
-export default App;
+//export default App;
